@@ -9,6 +9,6 @@ that can get data from firebase. This isn't the correct use-case for all
 scenarios, but is a fine default.
 
 Possible extensions:
-- Accept a loading component to replace the default <div>Loading...</div>
+- Accept a loading component to replace the default `<div>Loading...</div>`
 - A way to handle if there's an error in getting the data
 - A way to handle if there's no response, i.e. server timeout
